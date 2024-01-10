@@ -5,7 +5,7 @@
 
   
 
-<p align="center">My Personal Meta Search Engine that connects <strong>Forum Threads</strong>  Through Search.
+<p align="center">An ongoing Project of a Meta Search Engine that connects <strong>Forum Threads</strong>  Through Search.
 </p>
 
   
