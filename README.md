@@ -1,7 +1,7 @@
 
   
 
-# Meta Threads Search Engine
+# MetaThreads is a Metasearch Engine
 
   
 
