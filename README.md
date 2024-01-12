@@ -1,7 +1,7 @@
 
   
 
-# MetaThreads is a Metasearch Engine
+# MetaThreads - Connecting Forum Threads Through Search.
 
   
 
